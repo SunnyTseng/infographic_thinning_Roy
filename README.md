@@ -5,9 +5,6 @@
 
 The paper is entitled "Can Thinning Operations be used as a form of Ungulate-Adapted Forest Management? A Mini-Review and Primer". The goal of this project is to create a diagram to summarize the findings and ideas of this paper. 
 
-
-## Paper infomation
-
 - [Article](/docs/thinning_operation.docx)
 
 - [Example figures](/docs/IMG_0412.JPG)
