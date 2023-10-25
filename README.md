@@ -33,8 +33,9 @@ I will be using these two platforms for designing:
 
 - [Canva](https://www.canva.com/): a design tool for presentations and social media. I will be using canva for the text design. 
 
-Example of my design style: https://sunshineland.netlify.app/infographic/
+Example of my design style. Visit website for more: https://sunshineland.netlify.app/infographic/
 
+![](./docs/example.jpg)
 
 
 ## Expected output
