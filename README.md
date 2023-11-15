@@ -10,6 +10,11 @@ The paper is entitled "Can Thinning Operations be used as a form of Ungulate-Ada
 - [Example figures](/docs/IMG_0412.JPG)
 
 
+## Product
+
+version 1 (2023.11.14)
+
+![](./docs/moose_harvest_infographic_v1.png)
 
 ## Time line
 
